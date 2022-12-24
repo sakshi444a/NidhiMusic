@@ -1,9 +1,15 @@
 <h2 align="center">
-    ──「 ɴɪᴅʜɪ ダ ᴍᴜsɪᴄ 」──
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sakshi444a/NidhiMusic&branch=main&name=stylishXbot)
+
+
+
+    ──「 🇸‌туℓιѕн ✘🇧‌σт 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://te.legra.ph/file/9d717a0226c97c3c7059c.jpg">
 </p>
 
 <h3 align="center">
